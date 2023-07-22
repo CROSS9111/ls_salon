@@ -8,7 +8,7 @@ import pandas as pd
 # import matplotlib.pyplot as plt
 # from PIL import Image
 
-
+print(1)
 #スクレイピングlist
 d_price = ["21万円","25万円"]
 arr1 = np.array([["渋谷アインス 4階/410","Court Hills 広尾南 2階"], ["21万円","25万円"]])
