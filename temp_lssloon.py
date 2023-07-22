@@ -1,14 +1,14 @@
-import os
-import io
 import streamlit as st
-import matplotlib.pyplot as plt
 import numpy as np
-import time
 import pandas as pd
-from PIL import Image
 import pandas as pd
-import time
 
+# import os
+# import io
+# import matplotlib.pyplot as plt
+# from PIL import Image
+
+print(1)
 #スクレイピングlist
 d_price = ["21万円","25万円"]
 arr1 = np.array([["渋谷アインス 4階/410","Court Hills 広尾南 2階"], ["21万円","25万円"]])
